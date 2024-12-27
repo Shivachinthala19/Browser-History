@@ -1,0 +1,29 @@
+.bg-container {
+  display: flex;
+  background-color: #3367d6;
+  padding: 14px 30px;
+}
+
+.search-input {
+  background-color: #2850a7;
+  margin: auto;
+  height: 42px;
+  width: 400px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #6697ff;
+}
+.input {
+  border: none;
+  background-color: transparent;
+  color: #ffffff;
+  outline: none;
+  height: 42px;
+  width: 400px;
+  font-size: 20px;
+}
+.history-list {
+  background-color: #f8fafc;
+}

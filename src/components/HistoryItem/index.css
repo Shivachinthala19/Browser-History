@@ -1,0 +1,18 @@
+.history-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+}
+.history {
+  display: flex;
+  justify-content: space-between;
+}
+p {
+  margin: 12px;
+}
+.img {
+  background-color: transparent;
+  border: 0;
+}
